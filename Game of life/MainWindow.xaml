@@ -1,0 +1,19 @@
+﻿<Window x:Name="game_window" x:Class="Game_of_life.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Game_of_life"
+        mc:Ignorable="d"
+        Title="Game of Life" Height="550" Width="600" Background="#FF086758" Topmost="True" Cursor="Hand">
+    <Canvas x:Name="Main_Canvas" Height="450" Width="550" Background="#FFA1C3BD">
+        <Button x:Name="button_pause" Height="20" Width="40" Content="pause" Canvas.Left="492" Canvas.Top="362" Click="Button_Click" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Button x:Name="button_start" Height="20" Width="40" Content="Start" Canvas.Left="492" Canvas.Top="322" Click="Button_Click_1" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Button x:Name="button_clear" Height="20" Width="40" Content="clear" Canvas.Left="492" Canvas.Top="399" Click="button_clear_Click" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Image x:Name="start_Position_1" Source="C:\Users\buerklele\Pictures\GoL\glider.png" Height="57" Canvas.Left="472" Canvas.Top="74" Width="79" MouseDown="OnGliderClick" Cursor="Hand"/>
+        <Image x:Name="start_Position_2" Source="C:\Users\buerklele\Pictures\GoL\blinker.png" Height="57" Canvas.Left="472" Canvas.Top="159" Width="79" MouseDown="OnBlinkerClick" Cursor="Hand"/>
+        <Image x:Name="start_Position_3" Source="C:\Users\buerklele\Pictures\GoL\pulsar.png" Height="57" Canvas.Left="472" Canvas.Top="250" Width="79" MouseDown="OnPulsarClick" Cursor="Hand"/>
+        <TextBox x:Name="textBox_GenerationCounter" Canvas.Left="471" TextWrapping="Wrap" Text="Generation Counter" Canvas.Top="10" Width="79" HorizontalAlignment="Center" Height="44" VerticalAlignment="Top" IsReadOnly="True"/>
+        <Rectangle Height="100" Canvas.Left="-393" Stroke="Black" Canvas.Top="138" Width="100"/>
+    </Canvas>
+</Window>

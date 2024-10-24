@@ -1,0 +1,25 @@
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\Game of life_MarkupCompile.cache
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\Game of life_MarkupCompile.lref
+C:\Users\buerklele\source\repos\Game of life\Game of life\bin\Debug\net8.0-windows\Game of life.exe
+C:\Users\buerklele\source\repos\Game of life\Game of life\bin\Debug\net8.0-windows\Game of life.deps.json
+C:\Users\buerklele\source\repos\Game of life\Game of life\bin\Debug\net8.0-windows\Game of life.runtimeconfig.json
+C:\Users\buerklele\source\repos\Game of life\Game of life\bin\Debug\net8.0-windows\Game of life.dll
+C:\Users\buerklele\source\repos\Game of life\Game of life\bin\Debug\net8.0-windows\Game of life.pdb
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\Game of life.g.resources
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\Game of life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\Game of life.AssemblyInfoInputs.cache
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\Game of life.AssemblyInfo.cs
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\Game of life.csproj.CoreCompileInputs.cache
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\Game of life.dll
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\refint\Game of life.dll
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\Game of life.pdb
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\Game of life.genruntimeconfig.cache
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\ref\Game of life.dll
+C:\Users\buerklele\source\repos\Game of life\Game of life\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\Game of life.csproj.AssemblyReference.cache
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\GameOverWindow.g.cs
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\GameOverWindow.baml
+C:\Users\buerklele\source\repos\Game of life\Game of life\obj\Debug\net8.0-windows\Game of .2A40238E.Up2Date
